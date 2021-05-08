@@ -1,0 +1,20 @@
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.exe.config
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.exe
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.pdb
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.csprojResolveAssemblyReference.cache
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Form1.resources
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Properties.Resources.resources
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.csproj.GenerateResource.Cache
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.exe
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.pdb
+C:\Users\was\Desktop\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Interaction.resources
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.exe.config
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.exe
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.pdb
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.exe
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\bin\Debug\Water SectionDrMagdy Tayel.pdb
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.csprojResolveAssemblyReference.cache
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Form1.resources
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Interaction.resources
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water_SectionDrMagdy_Tayel.Properties.Resources.resources
+F:\Self Courses\programming\Water SectionDrMagdy Tayel\Water SectionDrMagdy Tayel\obj\Debug\Water SectionDrMagdy Tayel.csproj.GenerateResource.Cache
